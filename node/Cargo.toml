@@ -23,7 +23,7 @@ version = '3.0.0'
 
 [dependencies.node-template-runtime]
 path = '../runtime'
-version = '4.0.0-dev'
+version = '0.0.1-dev'
 
 [dependencies]
 jsonrpc-core = '18.0.0'
